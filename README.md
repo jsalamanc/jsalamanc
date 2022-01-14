@@ -5,17 +5,17 @@
 
 ###  👩‍💻 Mi Stack Tecnologico
 <p align="centro">
-  <a href="https://github.com/jsalamanc"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=000&labelColor =ffffff" alt="javascript"></a>
-  <a href="https://github.com/jsalamanc"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=000&labelColor =ffffff" alt="reaccionar"></a>
-    <a href="https://github.com/jsalamanc"><img src="https://img.shields.io/badge/tailwind-61DAFB.svg?style=for-the-badge&logo=tailwind&logoColor=000&labelColor =https://img.shields.io" alt="tailwind css"></a>
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/nextjs-47474f.svg?style=for-the-badge&logo=nextjs&logoColor=black&labelColor =ffffff" alt="nextjs"></a>
-    <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/firebase-47474f.svg?style=for-the-badge&logo=nextjs&logoColor=black&labelColor =ffffff" alt="firebase"></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=000&labelColor =ffffff" alt="javascript"></a>
+  <a href="https://create-react-app.dev/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=000&labelColor =ffffff" alt="reaccionar"></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwind-61DAFB.svg?style=for-the-badge&logo=tailwind&logoColor=000&labelColor =https://img.shields.io" alt="tailwind css"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/nextjs-47474f.svg?style=for-the-badge&logo=nextjs&logoColor=black&labelColor =ffffff" alt="nextjs"></a>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-47474f.svg?style=for-the-badge&logo=nextjs&logoColor=black&labelColor =ffffff" alt="firebase"></a>
 </p>
 
 ###  👩‍💻 Mi flujo de trabajo
 <p>
-    <a href="https://github.com/jsalamanc"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=fff&labelColor =ffffff"   alt="git"></a>
-  <a href="https://github.com/priyanshumay">
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=fff&labelColor =ffffff"   alt="git"></a>
+  <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
   </a>
 </p>
