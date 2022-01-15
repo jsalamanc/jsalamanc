@@ -27,7 +27,7 @@
 ###  👩‍💻 Estoy trabajando en
 - la construccion completa de mi sitio web conectado con firebase.
 
-###  💡 Objetivos para 2020
+###  💡 Objetivos para 2022
 - terminar mi sitio web en su totalidad.
 - Aprender ingles.
 
