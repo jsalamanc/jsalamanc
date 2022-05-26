@@ -1,7 +1,7 @@
 <img align='right' src= "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" ></img>
 <br>
 <br>
-¡Bienvenido a mi GitHub! Soy Juan Diego, Frontend Developer con tecnico en programación de software, actualmente cursando Ingeniería de Software. A través del autoaprendizaje y la inscripción en Platzi, estoy construyendo una base sólida en tecnologías e idiomas frontend. 
+¡Bienvenido a mi GitHub! Soy Juan Diego, Web Developer con tecnico en programación de software, actualmente cursando Ingeniería de Software. A través del autoaprendizaje y la inscripción en Platzi, estoy construyendo una base sólida en tecnologías e idiomas Web. 
 
 ###  👩‍💻 Mi Stack Tecnologico
 <p align="centro">
