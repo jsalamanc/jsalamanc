@@ -6,7 +6,6 @@
 ###  👩‍💻 Mi Stack Tecnologico
 <p align="centro">
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=000&labelColor =ffffff" alt="javascript"></a>
-  <a href="https://create-react-app.dev/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=000&labelColor =ffffff" alt="reaccionar"></a>
     <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwind-61DAFB.svg?style=for-the-badge&logo=tailwind&logoColor=000&labelColor =https://img.shields.io" alt="tailwind css"></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/nextjs-47474f.svg?style=for-the-badge&logo=nextjs&logoColor=black&labelColor =ffffff" alt="nextjs"></a>
     <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-47474f.svg?style=for-the-badge&logo=nextjs&logoColor=black&labelColor =ffffff" alt="firebase"></a>
