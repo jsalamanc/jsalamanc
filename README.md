@@ -30,14 +30,11 @@ web developer with teamwork skills. Knowledgeable in reactjs, nextjs, sass, tail
   </a>
 </p>
 
-###  ✔️ Actualmente estoy aprendiendo
-- NextJs
-- firebase
 
 ###  👩‍💻 Estoy trabajando en
-- la construccion completa de mi sitio web conectado con firebase.
+- la construccion completa de mi sitio web.
 
-###  💡 Objetivos para 2022
+###  💡 Objetivos para 2023
 - terminar mi sitio web en su totalidad.
 - Aprender ingles.
 
