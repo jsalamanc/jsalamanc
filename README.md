@@ -18,8 +18,8 @@ web developer with teamwork skills. Knowledgeable in reactjs, nextjs, sass, tail
 - `Cloud Functions`
 - `DynamoDB`
 - `Firestore`
-- `MongoDB`: Aprendiendo actualmente.
-- `SQL`: Aprendiendo actualmente.
+- `MongoDB`
+- `SQL`
 - `Express`
 
 ###  👩‍💻 Mi flujo de trabajo
