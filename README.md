@@ -31,9 +31,6 @@ web developer with teamwork skills. Knowledgeable in reactjs, nextjs, sass, tail
 ###  👩‍💻 Estoy trabajando en
 - la construccion completa de mi sitio web.
 
-###  💡 Objetivos para 2023
-- terminar mi sitio web en su totalidad.
-- Aprender ingles.
 
 ###  ☕ Ponte en contacto
 
