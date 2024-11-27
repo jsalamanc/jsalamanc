@@ -6,7 +6,6 @@ web developer with teamwork skills. Knowledgeable in reactjs, nextjs, sass, tail
 
 ## :hammer:Stack Frontend
 
-- `NextJS`
 - `Reactjs`
 - `SCSS`
 - `Tailwinds`
@@ -14,13 +13,11 @@ web developer with teamwork skills. Knowledgeable in reactjs, nextjs, sass, tail
 ## :hammer:Stack Backend
 
 - `Node.js`
-- `Lambda Functions`
-- `Cloud Functions`
-- `DynamoDB`
-- `Firestore`
+- `Python`
+- `AWS`
+- `Digital Ocean`
 - `MongoDB`
 - `SQL`
-- `Express`
 
 ###  👩‍💻 Mi flujo de trabajo
 <p>
