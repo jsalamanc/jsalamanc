@@ -6,8 +6,9 @@ web developer with teamwork skills. Knowledgeable in reactjs, nextjs, sass, tail
 
 ## :hammer:Stack Frontend
 
-- `Reactjs`
-- `SCSS`
+- `React.js`
+- `Next.js`
+- `SASS`
 - `Tailwinds`
 
 ## :hammer:Stack Backend
